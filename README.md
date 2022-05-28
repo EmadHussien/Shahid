@@ -1,8 +1,11 @@
 # Shahid
 
-shahid is streaming platform, a desktop application that gives user the ability to register and watch latest movies 
+I developed this project in the database course.
+
+Project description: shahid is streaming platform, a desktop application that gives user the ability to register and watch latest movies 
 using C# and oracle Db 
 
+Used Technologies: C#, oracle database, crystal reports.
 
 ### System Functionalities :
 
