@@ -42,3 +42,9 @@ parameters of number data type only])
 and readability
 2. Parameters with different data types
 3. Calling reports from C#
+
+##### Database ERD:
+![ERD](https://user-images.githubusercontent.com/31719363/176958378-cf67eb89-7709-4a31-9fce-8125eaae4e87.png)
+
+###### Database Schema:
+![image](https://user-images.githubusercontent.com/31719363/176958191-3f3947c7-5551-4703-8eb6-c2e4a3c310a8.png)
